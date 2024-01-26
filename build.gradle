@@ -4,7 +4,7 @@ plugins {
 	id 'java'
 }
 
-group = 'com.platzi'
+group = 'com.platz	i'
 version = '1.0'
 sourceCompatibility = '11'
 
